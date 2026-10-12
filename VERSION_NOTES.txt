@@ -1,0 +1,1 @@
+Portfolio v32 — footer branding removed. Based on v31. Removed the footer block containing the large Asra’s Creation logo and “Finance · Planning · Research · Creative” tagline, as requested. Preserved the requested About and Experience text and all other site files/assets.
